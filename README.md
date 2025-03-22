@@ -17,3 +17,18 @@ A real-time system to detect driver drowsiness assistant using OpenCV, dlib, and
    ```bash
    git clone https://github.com/YOUR_USERNAME/Driver-Drowsiness-Detection.git
    cd Driver-Drowsiness-Detection
+   
+**## Install dependencies**
+
+pip install -r requirements.txt
+
+**## Usage**
+Run the Python script:
+python project_final.py
+
+
+Upload Nandy_Project.ino to your Arduino using the Arduino IDE.
+
+**## Notes**
+Ensure the webcam and Arduino are connected properly.
+Adjust the threshold values in the Python script (thresh, alert_time_threshold) based on your setup.
