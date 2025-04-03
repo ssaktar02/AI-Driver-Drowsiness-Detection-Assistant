@@ -28,7 +28,7 @@ python project_final.py
 
 
 Upload Nandy_Project.ino to your Arduino using the Arduino IDE.
-
+ 
 **## Notes**
 Ensure the webcam and Arduino are connected properly.
 Adjust the threshold values in the Python script (thresh, alert_time_threshold) based on your setup.
